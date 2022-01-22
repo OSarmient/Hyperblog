@@ -1,0 +1,9 @@
+Este es un archivo de prueba para parender a usar GIT
+
+Realmente no es nada serio
+
+Además le estoy haciendo cambios constantemente para probar otras funciones
+
+Aquí sigo haciendo pruebas
+
+Es solo for fun :)

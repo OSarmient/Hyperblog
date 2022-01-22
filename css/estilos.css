@@ -2,7 +2,7 @@ body
 {
     background: #1e1f24;
     color: #333;
-    text-align: center;
+    text-align: left;
     font-family: Arial;
     font-size: 16px;
     margin: 0;
@@ -50,7 +50,6 @@ body
 {
     background: white;
     padding: 1em;
-    padding: lem;
 }
 
 /*Esto deberia estar en el master pero no lo está, voy a hacer un nuevo commit a ver qué*/
